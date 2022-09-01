@@ -1,4 +1,2 @@
 #!/bin/bash
-mkdir /tmp
-rmdir /tmp/my_first_directory
-.
+rmdir /tmp/my_first_directory/
