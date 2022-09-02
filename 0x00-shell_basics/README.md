@@ -1,1 +1,1 @@
-bye bye
+deleted directory
